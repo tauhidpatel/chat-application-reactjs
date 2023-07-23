@@ -26,7 +26,7 @@ To run the Chat Application locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/chat-app.git
+git clone [https://github.com/your-username/chat-app.git](https://github.com/Tauhid-Patel/chat-application-reactjs.git)
 ```
 
 2. Navigate to the project directory:
